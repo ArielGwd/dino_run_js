@@ -5,4 +5,4 @@ Dino Run adalah sebuah game bertema dino berbasis web, hindarilah kotak agar si 
 - spasi => untuk lompat
 
 ## Demo
-Space Adventure - arielgwd.github.io/space_adventure_js/
+Dino Run - https://arielgwd.github.io/dino_run_js/
